@@ -21,6 +21,8 @@
 
  ##Reichskommissariat Localisation
  RKB_autonomy_reichskommissariat:0 "Reichskommissariat Belgien-Nordfrankreich"
+ RKO_autonomy_reichskommissariat:0 "Reichskommissariat Ostland"
+ RKH_autonomy_reichskommissariat:0 "Reichskommissariat Niederlande"
 
  ##Norway Localisation
  NOR_autonomy_reichskommissariat:0 "Reichskommissariat Norwegen"
