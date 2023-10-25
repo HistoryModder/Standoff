@@ -12,5 +12,22 @@ set_popularities = {
 	communism = 20
 }
 
+set_autonomy = {
+	target = POL
+	autonomy_state = autonomy_reichsgovernate
+}
+set_autonomy = {
+	target = CZE
+	autonomy_state = autonomy_reichsprotectorate
+}
+set_autonomy = {
+	target = RKB
+	autonomy_state = autonomy_reichskommissariat
+}
+set_autonomy = {
+	target = NOR
+	autonomy_state = autonomy_reichskommissariat
+}
+
 create_faction = Axis
 add_to_faction = GER

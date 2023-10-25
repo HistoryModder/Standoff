@@ -1,0 +1,6 @@
+RKB_reichskommissariat = {
+	color = rgb { 115 115 115 }
+}
+NOR_reichskommissariat = {
+	color = rgb { 115 115 115 }
+}

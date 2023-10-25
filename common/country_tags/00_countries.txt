@@ -1,1 +1,5 @@
 GER = "countries/Germany.txt"
+CZE = "countries/Czechoslovakia.txt"
+POL = "countries/Poland.txt"
+RKB = "countries/RK Belgium.txt"
+NOR = "countries/Norway.txt"
