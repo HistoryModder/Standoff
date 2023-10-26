@@ -25,10 +25,13 @@
  RKH_autonomy_reichskommissariat:0 "Reichskommissariat Niederlande"
  RKF_autonomy_reichskommissariat:0 "Reichskommissariat Frankreich"
  RKU_autonomy_reichskommissariat:0 "Reichskommissariat Ukraine"
+ RKK_autonomy_reichskommissariat:0 "Reichskommissariat Kaucasus"
+ RKM_autonomy_reichskommissariat:0 "Reichskommissariat Moskowien"
 
  ##Reichsgarrison Localisation
  KRI_autonomy_reichsgarrison:0 "Krimean Garrison"
  BRI_autonomy_reichsgarrison:0 "SS Brittany"
+ RGU_autonomy_reichsgarrison:0 "Ural Military Administration"
 
  ##Norway Localisation
  NOR_autonomy_reichskommissariat:0 "Reichskommissariat Norwegen"
