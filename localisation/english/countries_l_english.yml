@@ -23,6 +23,24 @@
  RKB_autonomy_reichskommissariat:0 "Reichskommissariat Belgien-Nordfrankreich"
  RKO_autonomy_reichskommissariat:0 "Reichskommissariat Ostland"
  RKH_autonomy_reichskommissariat:0 "Reichskommissariat Niederlande"
+ RKF_autonomy_reichskommissariat:0 "Reichskommissariat Frankreich"
+ RKU_autonomy_reichskommissariat:0 "Reichskommissariat Ukraine"
+
+ ##Reichsgarrison Localisation
+ KRI_autonomy_reichsgarrison:0 "Krimean Garrison"
+ BRI_autonomy_reichsgarrison:0 "SS Brittany"
 
  ##Norway Localisation
  NOR_autonomy_reichskommissariat:0 "Reichskommissariat Norwegen"
+
+ ##Hungary Localisation
+ HUN:0 "Hungary"
+ HUN_DEF:0 "Hungary"
+ HUN_ADJ:0 "Hungarian"
+ HUN_fascism:0 "Kingdom of Hungary"
+
+ ##Romania Localisation
+ ROM:0 "Romania"
+ ROM_DEF:0 "Romania"
+ ROM_ADJ:0 "Romanian"
+ ROM_fascism:0 "Iron Guard Romania"

@@ -11,3 +11,5 @@ set_popularities = {
 	fascism = 60
 	communism = 20
 }
+
+set_cosmetic_tag = reichskommissariat

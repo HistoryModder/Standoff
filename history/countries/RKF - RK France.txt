@@ -1,4 +1,4 @@
-﻿capital = 6
+﻿capital = 16
 
 set_politics = {
 	ruling_party = fascism

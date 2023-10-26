@@ -1,6 +1,9 @@
-RKB_reichskommissariat = {
+reichskommissariat = {
 	color = rgb { 115 115 115 }
+	color_ui = rgb { 122 145 93 }
 }
-NOR_reichskommissariat = {
-	color = rgb { 115 115 115 }
+
+reichsgarrison = {
+	color = rgb { 40 40 40 }
+	color_ui = rgb { 122 145 93 }
 }

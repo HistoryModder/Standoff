@@ -1,4 +1,4 @@
-﻿capital = 6
+﻿capital = 137
 
 set_politics = {
 	ruling_party = fascism
@@ -12,4 +12,4 @@ set_popularities = {
 	communism = 20
 }
 
-set_cosmetic_tag = reichskommissariat
+set_cosmetic_tag = reichsgarrison

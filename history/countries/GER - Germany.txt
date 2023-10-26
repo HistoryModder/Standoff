@@ -36,6 +36,22 @@ set_autonomy = {
 	target = RKH
 	autonomy_state = autonomy_reichskommissariat
 }
+set_autonomy = {
+	target = KRI
+	autonomy_state = autonomy_reichsgarrison
+}
+set_autonomy = {
+	target = BRI
+	autonomy_state = autonomy_reichsgarrison
+}
+set_autonomy = {
+	target = RKF
+	autonomy_state = autonomy_reichskommissariat
+}
+set_autonomy = {
+	target = RKU
+	autonomy_state = autonomy_reichskommissariat
+}
 
 create_faction = Axis
 add_to_faction = GER
